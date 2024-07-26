@@ -28,8 +28,6 @@ Mensagem de Feedback: Uma mensagem aparece imediatamente indicando se o email é
 
 💻 JavaScript: Implementação da validação de email para verificar se o formato inserido é válido, fornecendo feedback instantâneo ao usuário
 
-## 🌸 Benefícios
-
 🧩 Validação de Email
 🔧 HTML: Estruturação do formulário de email, incluindo campo de entrada e mensagem de feedback.
 
