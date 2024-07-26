@@ -82,7 +82,7 @@ Facilidade de Uso: Interface simples e direta para inserir e validar CPFs.
 
 Este projeto foi desenvolvido para fornecer uma forma eficaz de validar CPFs de maneira fácil e intuitiva.
 
-# ❤️ veja a ilustração do meu projeto de CPF !
+# ❤️ veja a ilustração do meu projeto de CPF!
 
 ![Validações](img/cpf.png)
 
