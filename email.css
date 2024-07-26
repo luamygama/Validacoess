@@ -1,0 +1,62 @@
+
+body {
+    background-image: url('img/tela\ do\ Email.png'); /* caminho para a imagem de fundo */
+    background-size: cover; /* cobre todo o espaço disponível */
+    background-position: center center; /* centraliza a imagem */
+    background-attachment: fixed; /* fixa a imagem para que não role com a página */
+    height: 100%; /* altura total da página */
+    margin: 0; /* removido o margin para garantir que a imagem cubra toda a área */
+    padding: 0; /* removido o padding para garantir que a imagem cubra toda a área */
+    font-family: Arial, sans-serif; /* fonte principal */
+    background-color: #f0f0f0; /* cor de fundo geral */
+}
+#cpf {
+    margin-top: 10px; /* espaço superior */
+    font-size: 18px; /* tamanho da fonte */
+    color: #1074ad; /* cor rosa mais forte para o CPF */
+    text-align: center; /* centralizar o texto */
+}
+
+button[type="submit"] {
+    padding: 12px 24px;
+    background-color: #2679bd; /* cor de fundo rosa mais forte */
+    color: #fff; /* cor do texto branco */
+    border: none; /* sem borda */
+    border-radius: 5px; /* bordas arredondadas */
+    cursor: pointer; /* cursor de ponteiro ao passar */
+    font-size: 16px; /* tamanho da fonte */
+    transition: background-color 0.3s; /* transição suave */
+    display: block; /* torna o botão um bloco para ajustar a largura */
+    margin: 0 auto; /* centraliza horizontalmente */
+}
+/* Reset básico para remover margens e paddings padrão */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* fonte principal */
+    background-color: #f0f0f0; /* cor de fundo geral */
+}
+
+/* Estilo para o formulário */
+form {
+    width: 320px; /* largura do formulário */
+    margin: 50px auto; /* centralizar o formulário na página */
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* fundo branco com transparência */
+    border: 1px solid #f7d9d9; /* borda rosa claro */
+    border-radius: 10px; /* bordas arredondadas */
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* sombra mais pronunciada */
+    text-align: center; /* alinhar texto centralmente */
+
+    
+}
+
+.container{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+ 
+}
